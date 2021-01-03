@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 (function (global) {
-=======
-function (global) {
->>>>>>> c116866b4dbf3d49cc8c02bcff8543ff78699f17
 
 // Set up a namespace for our utility
 var ajaxUtils = {};
@@ -68,3 +64,4 @@ global.$ajaxUtils = ajaxUtils;
 
 
 })(window);
+
